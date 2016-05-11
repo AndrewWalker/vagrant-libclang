@@ -6,10 +6,6 @@ bindings and associated tools.
 
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
-## About
-
-To lower the barrier to entry for experimenting with a range of these tools.
-
 ## Contents
 
 Installed packages are:
@@ -21,6 +17,10 @@ Installed packages are:
 - git
 - cmake
 - miniconda (including a minimal jupyter stack)
+
+## Notes
+
+This repository is optimised for the Australian Ubuntu mirrors.
 
 ## License
 
